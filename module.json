@@ -2,7 +2,7 @@
   "id": "hp-triggers",
   "title": "HP Triggers",
   "description": "Adds an At HP activity activation type with <, =, and > HP trigger comparisons.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Zump Zump"
